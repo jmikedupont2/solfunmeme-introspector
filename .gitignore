@@ -2,3 +2,5 @@ temp_*
 
 SolfunmemeLean/.env
 *.env
+.lake/build/
+.lake/packages/
