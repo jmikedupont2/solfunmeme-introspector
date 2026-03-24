@@ -1,0 +1,5 @@
+{"log":
+ [{"message":
+   ".> c:\\Users\\deads\\.elan\\toolchains\\leanprover--lean4---v4.18.0\\bin\\clang.exe -c -o .\\.\\.lake\\build\\ir\\Main.c.o.noexport .\\.\\.lake\\build\\ir\\Main.c -I c:\\Users\\deads\\.elan\\toolchains\\leanprover--lean4---v4.18.0\\include -fstack-clash-protection -fwrapv -Wno-unused-command-line-argument --sysroot c:\\Users\\deads\\.elan\\toolchains\\leanprover--lean4---v4.18.0 -nostdinc -isystem c:\\Users\\deads\\.elan\\toolchains\\leanprover--lean4---v4.18.0/include/clang -O3 -DNDEBUG",
+   "level": "trace"}],
+ "depHash": "914440989009557728"}
