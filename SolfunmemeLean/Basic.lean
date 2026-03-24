@@ -62,7 +62,7 @@ def PumpFun (s: String) : IO Unit := do
 def SolfunmemeLean : IO Unit := do
   PumpFun "BwUTq7fS6sfUmHDwAiCQZ3asSiPEapW5zDrsbwtapump"
 
-def main : IO Unit := do
+def basic_main : IO Unit := do
   -- let startTime ← IO.monoMsNow
   callLean "GenerateLedger.lean"
 
