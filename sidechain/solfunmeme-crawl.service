@@ -1,0 +1,8 @@
+[Unit]
+Description=solfunmeme batch-crawl (daily HF dataset tx fetch)
+After=network-online.target
+
+[Service]
+Type=oneshot
+ExecStart=%h/erdfa-publish/target/release/solfunmeme-service batch-crawl
+Environment="RUST_LOG=info"
