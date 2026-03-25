@@ -6,3 +6,4 @@ import SolfunmemeLean.FederalModel
 import SolfunmemeLean.Governance
 import SolfunmemeLean.FederalGov
 import SolfunmemeLean.Bills
+import SolfunmemeLean.VotingProtocol

@@ -8,3 +8,5 @@ def main : IO Unit := do
   federalGovMain
   IO.println ""
   billsMain
+  IO.println ""
+  votingProtocolMain
