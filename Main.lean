@@ -6,3 +6,5 @@ def main : IO Unit := do
   governanceMain
   IO.println ""
   federalGovMain
+  IO.println ""
+  billsMain
