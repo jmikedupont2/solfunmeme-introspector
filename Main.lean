@@ -4,3 +4,5 @@ def main : IO Unit := do
   federalModelMain
   IO.println ""
   governanceMain
+  IO.println ""
+  federalGovMain
